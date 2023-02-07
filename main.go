@@ -44,8 +44,13 @@ balik:
 
 }
 
+
+
 func main() {
 balik:
+// 	variabel baru bro
+	var tes string
+	
 	var a int
 	var b int
 	var op string
