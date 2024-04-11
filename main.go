@@ -86,4 +86,4 @@ balik:
 }
 
 //NO nyontek, progaymer tidak sombong
-//made by panji and jundia
+//made by panji and jundia hehe
